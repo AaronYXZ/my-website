@@ -1,0 +1,23 @@
+# Hugo build output
+/public/
+/resources/
+
+# Logs and system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.swp
+*.swo
+
+# Node modules (if using npm packages like for Tailwind)
+node_modules/
+
+# IDE/editor config
+.vscode/
+.idea/
+
+# OS junk
+ehthumbs.db
+Icon?
